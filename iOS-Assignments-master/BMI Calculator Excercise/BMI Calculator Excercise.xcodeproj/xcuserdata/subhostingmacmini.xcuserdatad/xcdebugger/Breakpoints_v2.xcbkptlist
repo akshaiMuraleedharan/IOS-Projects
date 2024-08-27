@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "669A087A-52DC-418B-8FAE-D8A3F3BD88CA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12E35C15-BA6E-4AC6-AB6C-484A825F1768"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI Calculator Excercise/Control/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12E35C15-BA6E-4AC6-AB6C-484A825F1768 - 316999077b1c95fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_Excercise.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "BMI Calculator Excercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhostingmacmini/TRAINING/Workshop/BMI%20Calculator%20Excercise/BMI%20Calculator%20Excercise/Control/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "12E35C15-BA6E-4AC6-AB6C-484A825F1768 - 316999077b1c95fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_Excercise.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "BMI Calculator Excercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhostingmacmini/TRAINING/Workshop/BMI%20Calculator%20Excercise/BMI%20Calculator%20Excercise/Control/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "12E35C15-BA6E-4AC6-AB6C-484A825F1768 - 316999077b1c959b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_Excercise.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "BMI Calculator Excercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhostingmacmini/TRAINING/Workshop/BMI%20Calculator%20Excercise/BMI%20Calculator%20Excercise/Control/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

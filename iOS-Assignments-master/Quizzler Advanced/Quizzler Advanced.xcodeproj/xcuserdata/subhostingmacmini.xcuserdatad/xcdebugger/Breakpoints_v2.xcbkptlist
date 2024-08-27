@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DB5A3C1B-FEFB-4F1D-8407-8D7CE6A66720"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA78F16C-F83D-47CB-9C12-E4FDBF96D144"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzler Advanced/Control/QuizViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE8AED53-6268-46A5-BFE3-B6E685E8D920"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzler Advanced/Control/MultiChoiceQuizViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "buttonAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE8AED53-6268-46A5-BFE3-B6E685E8D920 - d6974ddfe35149ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_Advanced.MultiChoiceQuizViewController.buttonAction(__C.UIButton) -&gt; ()"
+                  moduleName = "Quizzler Advanced"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhostingmacmini/TRAINING/Workshop/Quizzler%20Advanced/Quizzler%20Advanced/Control/MultiChoiceQuizViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "FE8AED53-6268-46A5-BFE3-B6E685E8D920 - d6974ddfe35149ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_Advanced.MultiChoiceQuizViewController.buttonAction(__C.UIButton) -&gt; ()"
+                  moduleName = "Quizzler Advanced"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhostingmacmini/TRAINING/Workshop/Quizzler%20Advanced/Quizzler%20Advanced/Control/MultiChoiceQuizViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89D5674A-19AB-4596-A878-CC126911B8F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzler Advanced/Control/MultiChoiceQuizViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "updateUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "89D5674A-19AB-4596-A878-CC126911B8F5 - 449091a5d121dabe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_Advanced.MultiChoiceQuizViewController.updateUI() -&gt; ()"
+                  moduleName = "Quizzler Advanced"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhostingmacmini/TRAINING/Workshop/Quizzler%20Advanced/Quizzler%20Advanced/Control/MultiChoiceQuizViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "89D5674A-19AB-4596-A878-CC126911B8F5 - 449091a5d121dabe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_Advanced.MultiChoiceQuizViewController.updateUI() -&gt; ()"
+                  moduleName = "Quizzler Advanced"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhostingmacmini/TRAINING/Workshop/Quizzler%20Advanced/Quizzler%20Advanced/Control/MultiChoiceQuizViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
